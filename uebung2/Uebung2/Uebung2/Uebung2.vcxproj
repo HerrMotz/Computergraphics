@@ -136,7 +136,7 @@
     <ClCompile Include="C:\Users\frand\Downloads\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\frand\Downloads\functions02.h" />
+    <ClInclude Include="functions02.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

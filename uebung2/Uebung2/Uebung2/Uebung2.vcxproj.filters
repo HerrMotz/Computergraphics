@@ -23,7 +23,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\frand\Downloads\functions02.h">
+    <ClInclude Include="functions02.h">
       <Filter>Quelldateien</Filter>
     </ClInclude>
   </ItemGroup>
